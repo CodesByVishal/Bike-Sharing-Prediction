@@ -1,12 +1,12 @@
 # Bike Sharing Prediction : ML MODEL
 
----
+----
 
 ## Abstract
 
 Rental bikes have become integral to urban mobility, with cities like Seoul, South Korea, implementing bike share programs. Accurately predicting bike demand is crucial for the success of such programs, ensuring availability and accessibility for users. This project aims to forecast the number of bikes required per hour, utilizing weather data and other factors to ensure a stable supply of rental bikes.
 
----
+----
 
 ## Problem Statement
 
